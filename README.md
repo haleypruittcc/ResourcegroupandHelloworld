@@ -32,17 +32,17 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 
 
-<h3>Step 2: Create Resource Group</h3>
+<h3>Step 2: Create a Resource Group</h3>
+
+<p align="center">
+<img src="https://i.imgur.com/HyiJE9V.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
 
 - Go to search bar at the top and search "resource group"
 - Select create resource group
-- You will then need to name the resource group and select the region 
+- Type any name for your the resource group and select the region thats near your area
 - Select review + create
-    - For the example, we will be using RG-Lab-1 for the name and (US) West 3 for the region
 
-<p align="center">
-<img src="https://i.imgur.com/Afnk87u.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
 
 <h3>Step 3: Create a storage Account</h3>
 
