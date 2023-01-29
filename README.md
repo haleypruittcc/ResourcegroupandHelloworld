@@ -20,13 +20,14 @@ The creation of a virtual machine and an Azure account will be demonstrated in t
 Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 <p align="center">
-
+<img src="https://i.imgur.com/riowusG.png" height="80%" width="80%" alt="Azure Free Account"/>
   
+
 
 - Click on Start Free
 - Follow the prompt to create the account. 
-     - You will need to put in your credit card information but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then.
-- Finish prompt, click Go to Azure Portal and you are ready to start with Azure!
+     - You must enter your credit card information, but in exchange, you will receive $200 in Azure credits that you have 30 days to utilize. Up until then, no charges will be applied.
+- Finish prompt, click on  Go to Azure Portal and you are all done and ready to start with Azure!
      - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
 
 
