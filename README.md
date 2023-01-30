@@ -87,7 +87,8 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
  - Click on "Delete Resource Group" 
  - Type the name of the Resource Group and Click "Delete".
    Finish!
-   Tip: Delete your Resource Group will save your free $200 credits,SO MAKE SURE TO DELETE YOUR RESCOUCRE GROUPS AFTER YOU'RE DONE!  
+  
+  Tip: Delete your Resource Group will save your free $200 credits,SO MAKE SURE TO DELETE YOUR RESCOUCRE GROUPS AFTER YOU'RE DONE!  
 
 
 
