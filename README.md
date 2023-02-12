@@ -35,7 +35,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <h3>Step 2: Create a Resource Group</h3>
 
 <p align="center">
-<img src="https://i.imgur.com/HyiJE9V.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CwqbAfU.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/Gy5ihlX.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/FK9tPVt.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 - Go to search bar at the top and search "resource group"
@@ -47,7 +47,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <h3>Step 3: Create a Storage Account within the Resource Group created </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/mXjhsId.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/AHbLOfo.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
 - Go to search bar and search "Storage Account"
@@ -61,7 +61,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <h3>Step 4: Create a Container and a file </h3>
  
  <p align="center">
-<img src="https://i.imgur.com/61sAJSp.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/g5Cc4eB.png" height="70%" width="70%" alt="Azure Free Services"/> [<img src="https://i.imgur.com/yYqc03A.png" height="70%" width="70%" alt="Azure Free Account"/>] <img src="https://i.imgur.com/8Xhk9yj.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/VKCJbpf.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Z01V8dO.png" height="70%" width="70%" alt="Azure Free Services"/> <img src="https://i.imgur.com/r71MgMU.png" height="70%" width="70%" alt="Azure Free Account"/> [<img src="https://i.imgur.com/kSumXSD.png" height="70%" width="70%" alt="Azure Free Account"/>] <img src="https://i.imgur.com/9J1Qt8M.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
  
 - Click "Container" by scrolling down on the side of the Storage Account you created in Step 3.
@@ -80,7 +80,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 
 <p align="center">
-<img src="https://i.imgur.com/xKWiDhc.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/BnWC4Q4.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
  
  - Open your "Resource Group" in Step 2 
